@@ -1,4 +1,4 @@
-# Hello, I'm Kawano Yasuhiko 👋
+# Hello, I'm Yin Tan 👋
 
 ## About Me
 I'm a senior blockchain and web developer with a passion for building decentralized applications and innovative web solutions.
@@ -18,7 +18,7 @@ I'm a senior blockchain and web developer with a passion for building decentrali
 - Learning about AI and machine learning
 
 ## Contact
-- Email: yasuhikokawano000@gmail.com
+- Email: alexlin960111@gmail.com
 - Discord: BE@ST
 <!---
 CryptoNinja1205/CryptoNinja1205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
