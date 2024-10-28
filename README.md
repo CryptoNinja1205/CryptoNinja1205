@@ -1,4 +1,4 @@
-# Hello,👋
+# Hello👋
 
 ## About Me
 I'm a senior blockchain and web developer with a passion for building decentralized applications and innovative web solutions.
