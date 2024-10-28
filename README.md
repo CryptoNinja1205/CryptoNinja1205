@@ -18,7 +18,7 @@ I'm a senior blockchain and web developer with a passion for building decentrali
 - Learning about AI and machine learning
 
 ## Contact
-- Email: alexlin960111@gmail.com
+- Email: rensato960111@gmail.com
 - Discord: BE@ST
 <!---
 CryptoNinja1205/CryptoNinja1205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
